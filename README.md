@@ -80,7 +80,8 @@ Personal_Expense_Tracker/
 ![CLI Screenshot](images/cli.png)
 
 # 📊 Data Visualization
-![Charts Screenshot](images/charts.png)
+![Spending by Category Screenshot](images/chart1.png)
+![Monthly Spending Trend Screenshot](images/chart2.png)
 
 # 📈 Power BI Dashboard
 ![Dashboard Screenshot](images/dashboard.png)
